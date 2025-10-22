@@ -39,7 +39,7 @@
  *
  */
 
-:root {
+root {
     /* Walnut UI Theme Variables (placeholders - actual values should come from Walnut UI) */
     --primary-color: #007bff;
     --secondary-color: #6c757d;
